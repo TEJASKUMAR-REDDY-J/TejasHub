@@ -1,0 +1,4 @@
+/* loaded by layout for font fallbacks if needed; next/font handles real loading */
+:root {
+  --font-inter: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
